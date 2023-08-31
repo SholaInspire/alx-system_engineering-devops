@@ -1,2 +1,1 @@
-Shell navigation and familiarization with commands on shell.
-Interaction with CLI - terminal.
+This is for basics and navigations for shell process.
