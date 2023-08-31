@@ -1,1 +1,1 @@
-The process of shell permissions project.
+This is process of shell permissions and navigations.
