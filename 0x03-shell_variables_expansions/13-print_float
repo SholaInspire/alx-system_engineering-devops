@@ -1,2 +1,2 @@
 #!/bin/bash
-no.13: printf "%.2f\n" "$SUM"
+printf "%.2f\n" "$SUM"
